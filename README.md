@@ -16,10 +16,7 @@
  
 2. Wickham, H., & Grolemund, G. (2016). [R for data science: import, tidy, transform, visualize, and model data. " O'Reilly Media, Inc.".](https://www.amazon.com/Data-Science-Transform-Visualize-Model/dp/1491910399/ref=sr_1_1?keywords=R+for+data+science%3A+import%2C+tidy%2C+transform%2C+visualize%2C+and+model+data.&qid=1579712350&sr=8-1) (required) 
 
-
-
- 
-3. Silge, J., & Robinson, D. (2017). Text mining with R: A tidy approach. " O'Reilly Media, Inc.". (Online book) https://www.tidytextmining.com/
+3. Silge, J., & Robinson, D. (2017). [Text mining with R: A tidy approach. " O'Reilly Media, Inc.". ](https://www.tidytextmining.com/)(required) (Online book) 
 
 4. Additional articles and reports on Github 
  
