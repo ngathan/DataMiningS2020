@@ -1,4 +1,4 @@
-*Data Mining - Spring 2020*
+#Data Mining - Spring 2020*
 
 The class would be structure as follows: 
 The class is basically structured as follows: 
