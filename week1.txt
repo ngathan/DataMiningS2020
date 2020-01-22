@@ -1,0 +1,1 @@
+Wellcome to week 1. You will learn about data mining, data science, and ethics of data this week.
