@@ -1,5 +1,7 @@
 Learning R with online resources 
 
+1. DataCamp offers free online resources for R 
+
 As an alternative to DataCamp, we are now recommending the free RStudio Primers (https://rstudio.cloud/learn/primers), which can be supplemented by the open access book R for Data Science by Grolemund and Wickham (https://r4ds.had.co.nz/).  RStudio Primers cover 6 topics: The Basics, Working with Data, Visualize Data, Tidy Your Data, Iterate, Write Functions.  If you already feel comfortable with these topics (either in R or some other language), then you do not need to complete these Primers.  But, if you are not totally comfortable with them or would just like some more practice, we recommend that you complete the Primers.
 
 If you would like more practice after completing the Primers, some other materials that we can recommend are:
