@@ -1,5 +1,5 @@
-# DataMiningS2020
-This repo is for Data Mining Class at Hunter College - Spring 2020 
+**This repo is for Data Mining Class at Hunter College - Spring 2020**
+
 The class would be structure as follows: 
 The class is basically structured as follows: 
  
@@ -25,11 +25,5 @@ Additionally,
 2. Data Camp has free resources for R: https://www.datacamp.com/users/sign_up?redirect=%2Fcourses%2Ffree-introduction-to-r%2Fcontinue
 3. I am contacting guest speakers to come in and share with the class their data science journeys. 
  
- 
-Let me know if you have any further questions.
- 
-Best, 
- 
-Nga Than 
  
  
