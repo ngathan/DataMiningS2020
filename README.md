@@ -1,5 +1,7 @@
 # Data Mining - Spring 2020
 
+## Goals 
+
 The class would be structure as follows: 
 The class is basically structured as follows: 
  
