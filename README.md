@@ -7,7 +7,7 @@
 3. Learn new Machine Learning Techniques: Random Forest, Support Vector Machine 
 4. Introduction to digital trace data 
 5. Learn how to use Twitter API 
-6. Pratice text mining techniques: structural topic modeling 
+6. Pratice text mining techniques: structural topic modeling, sentiment analysis 
 
 ## Textbooks 
 
