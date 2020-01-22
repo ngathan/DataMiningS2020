@@ -2,30 +2,37 @@
 
 ## Goals 
 
-The class would be structure as follows: 
-The class is basically structured as follows: 
+1. Get familiar with R Programming Language 
+2. Review Linear Regression, Logistic Regression
+3. Learn new Machine Learning Techniques: Random Forest, Support Vector Machine 
+4. Introduction to digital trace data 
+5. Learn how to use Twitter API 
+6. Pratice text mining techniques: structural topic modeling 
+
+## Textbooks 
+
+1. Salganik, M. (2019). Bit by bit: Social research in the digital age. Princeton University Press. (optional) https://www.amazon.com/Bit-Social-Research-Digital-Age/dp/0691158649/ref=sr_1_1?keywords=bit+by+bit+matthew&qid=1579712331&sr=8-1 
  
-I. Introduction & Ethical Issues in Data Science 
-II. R Programming Language & Machine Learning 101 ( object-oriented language, review regression, support vector machine, principle component analysis, and deep learning)
-III. Text Mining (digital trace data, scraping Twitter, forums, using API, topic modeling)
-IV. Final Project 
+2. Wickham, H., & Grolemund, G. (2016). R for data science: import, tidy, transform, visualize, and model data. " O'Reilly Media, Inc.". (required) https://www.amazon.com/Data-Science-Transform-Visualize-Model/dp/1491910399/ref=sr_1_1?keywords=R+for+data+science%3A+import%2C+tidy%2C+transform%2C+visualize%2C+and+model+data.&qid=1579712350&sr=8-1
  
-The three main books we will use are as follows: 
+3. Silge, J., & Robinson, D. (2017). Text mining with R: A tidy approach. " O'Reilly Media, Inc.". (Online book) https://www.tidytextmining.com/
+
+4. Additional articles and reports on Github 
  
-Salganik, M. (2019). Bit by bit: Social research in the digital age. Princeton University Press.
+
+## Class structure 
  
-Wickham, H., & Grolemund, G. (2016). R for data science: import, tidy, transform, visualize, and model data. " O'Reilly Media, Inc.".
+I. Introduction & Ethical Issues in Data Science (Week 1-3)
+II. R Programming Language & Machine Learning 101 ( object-oriented language, review regression, support vector machine, principle component analysis, and deep learning) (Week 4-Week 8)
+III. Text Mining (digital trace data, scraping Twitter, forums, using API, topic modeling) (Week 9-10)
+IV. Final Project (Week 11-15)
  
-Silge, J., & Robinson, D. (2017). Text mining with R: A tidy approach. " O'Reilly Media, Inc.".
- 
-And of course, there will be a few cases studies that we will be reading in class. 
 
 
-Additionally,
- 
-1. One book is optional (Bit by Bit). One book is available online for free (https://www.tidytextmining.com/). You only need a copy of the other one. 
-2. Data Camp has free resources for R: https://www.datacamp.com/users/sign_up?redirect=%2Fcourses%2Ffree-introduction-to-r%2Fcontinue
-3. I am contacting guest speakers to come in and share with the class their data science journeys. 
+## Extra Resources 
+
+1. Data Camp has free resources for R: https://www.datacamp.com/users/sign_up?redirect=%2Fcourses%2Ffree-introduction-to-r%2Fcontinue
+3. Guest speakers will visit class and share their data science journeys. 
  
  
  
