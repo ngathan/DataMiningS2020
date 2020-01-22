@@ -11,7 +11,8 @@
 
 ## Textbooks 
 
-1. Salganik, M. (2019). Bit by bit: Social research in the digital age. Princeton University Press. (optional) https://www.amazon.com/Bit-Social-Research-Digital-Age/dp/0691158649/ref=sr_1_1?keywords=bit+by+bit+matthew&qid=1579712331&sr=8-1 
+1. Salganik, M. (2019).
+the [Bit by bit: Social research in the digital age. Princeton University Press.](https://www.amazon.com/Bit-Social-Research-Digital-Age/dp/0691158649/ref=sr_1_1?keywords=bit+by+bit+matthew&qid=1579712331&sr=8-1 ) (optional) 
  
 2. Wickham, H., & Grolemund, G. (2016). R for data science: import, tidy, transform, visualize, and model data. " O'Reilly Media, Inc.". (required) https://www.amazon.com/Data-Science-Transform-Visualize-Model/dp/1491910399/ref=sr_1_1?keywords=R+for+data+science%3A+import%2C+tidy%2C+transform%2C+visualize%2C+and+model+data.&qid=1579712350&sr=8-1
  
