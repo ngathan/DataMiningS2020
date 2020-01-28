@@ -1,1 +1,0 @@
-This week will introduce you to basic cleaning data in R.
