@@ -33,7 +33,7 @@
  
 ## Data 
 
-1. Wickham, H., & Grolemund, G. (2016). [NCANDS](https://www.acf.hhs.gov/cb/research-data-technology/reporting-systems/ncands) 
+1.[NCANDS](https://www.acf.hhs.gov/cb/research-data-technology/reporting-systems/ncands) The National Child Abuse and Neglect Data System (NCANDS) is a voluntary data collection system that gathers information from all 50 states, the District of Columbia, and Puerto Rico about reports of child abuse and neglect.
 
 
 
