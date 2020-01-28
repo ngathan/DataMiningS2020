@@ -23,13 +23,13 @@
 
 ## Class structure 
  
-1. Introduction & Ethical Issues in Data Science (Week 1-3)
+1. Introduction to Data Science & Ethical Issues in Data Science (Week 1-2)
 
-2. R Programming Language & Machine Learning 101 ( object-oriented language, review regression, support vector machine, principle component analysis, and deep learning) (Week 4-Week 7)
+2. R Programming Language & Machine Learning 101 ( object-oriented language, review regression, support vector machine, principle component analysis, and deep learning) (Week 3-Week 8)
 
-3. Text Mining (digital trace data, scraping Twitter, forums, using API, topic modeling) (Week 8-10)
+3. Text Mining (digital trace data, scraping Twitter, forums, using API, topic modeling) (Week 9-11)
 
-4. Final Project (Week 11-15)
+4. Final Project (Week 12-16)
 
  
 
