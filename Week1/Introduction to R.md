@@ -1,4 +1,4 @@
-**Learning R with online resources**
+#Learning R with online resources**
 
 1. DataCamp offers free online resources for R 
 2. Alternative resources 
