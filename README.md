@@ -31,6 +31,10 @@
 
 4. Final Project (Week 12-16)
  
+## Data 
+
+1. Wickham, H., & Grolemund, G. (2016). [NCANDS](https://www.acf.hhs.gov/cb/research-data-technology/reporting-systems/ncands) 
+
 
 
 ## Extra Resources 
