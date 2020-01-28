@@ -30,14 +30,14 @@
 3. Text Mining (digital trace data, scraping Twitter, forums, using API, topic modeling) (Week 9-11)
 
 4. Final Project (Week 12-16)
-
  
 
 
 ## Extra Resources 
 
 1. Data Camp has free resources for R: https://www.datacamp.com/users/sign_up?redirect=%2Fcourses%2Ffree-introduction-to-r%2Fcontinue
-3. Guest speakers will visit class and share their data science journeys. 
+2. Guest speakers will visit class and share their data science journeys. 
+3. Join the class #DataHunterS2020 Slack Channel: https://join.slack.com/t/datahunters2020/signup
  
  
  
