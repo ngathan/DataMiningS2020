@@ -34,7 +34,9 @@
 ## Data Sources 
 
 1. [NCANDS](https://www.acf.hhs.gov/cb/research-data-technology/reporting-systems/ncands) - The National Child Abuse and Neglect Data System (NCANDS) is a voluntary data collection system that gathers information from all 50 states, the District of Columbia, and Puerto Rico about reports of child abuse and neglect.
+
 2. [Kaggle](https://www.kaggle.com/) - Kaggle is an online community of data scientists and machine learning practitioners. It allows users to find and publish data sets, explore and build models in a web-based data-science environment, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenges.
+
 3. [OpenNYC](https://opendata.cityofnewyork.us/). Open Data is free public data published by New York City agencies and other partners. 
 
 
@@ -42,8 +44,11 @@
 ## Extra Resources 
 
 1. Data Camp has free resources for R: https://www.datacamp.com/users/sign_up?redirect=%2Fcourses%2Ffree-introduction-to-r%2Fcontinue
+
 2. Guest speakers will visit class and share their data science journeys. 
+
 3. Join the class #DataHunterS2020 Slack Channel: https://join.slack.com/t/datahunters2020/signup
+
 4. Join the R-Ladies Community Slack Channel if you want to reach out to women in Data Science: https://rladies-community-slack.herokuapp.com/
  
  
