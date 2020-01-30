@@ -44,6 +44,7 @@
 1. Data Camp has free resources for R: https://www.datacamp.com/users/sign_up?redirect=%2Fcourses%2Ffree-introduction-to-r%2Fcontinue
 2. Guest speakers will visit class and share their data science journeys. 
 3. Join the class #DataHunterS2020 Slack Channel: https://join.slack.com/t/datahunters2020/signup
+4. Join the R-Ladies Community Slack Channel if you want to reach out to more women in Data Science: https://rladies-community-slack.herokuapp.com/
  
  
  
