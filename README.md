@@ -50,6 +50,7 @@
 3. Join the class #DataHunterS2020 Slack Channel: https://join.slack.com/t/datahunters2020/signup
 
 4. Join the R-Ladies Community Slack Channel if you want to reach out to women in Data Science: https://rladies-community-slack.herokuapp.com/
- 
+
+5. Listen to Podcast Data Skeptic: https://dataskeptic.com/ 
  
  
