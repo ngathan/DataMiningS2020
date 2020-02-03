@@ -43,6 +43,10 @@
 
 5. Podcasting Subreddit: https://www.reddit.com/r/podcasting/. Ask professor for the dataset.  
 
+6. Gab.com dataset. Ask professor for the Dataset 
+
+7. Twitter hashtags: Scraping Twitter using R packages. This topic will be covered in the Text Mining Part of the class. 
+
 
 ## Extra Resources 
 
