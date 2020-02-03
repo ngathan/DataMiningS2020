@@ -39,6 +39,9 @@
 
 3. [OpenNYC](https://opendata.cityofnewyork.us/). Open Data is free public data published by New York City agencies and other partners. 
 
+4. RedpillWomen Subreddit: https://www.reddit.com/r/RedPillWomen/. Ask professor for the dataset.  
+
+5. Podcasting Sub-reddit: https://www.reddit.com/r/podcasting/. Ask professor for the dataset.  
 
 
 ## Extra Resources 
