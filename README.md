@@ -41,7 +41,7 @@
 
 4. RedpillWomen Subreddit: https://www.reddit.com/r/RedPillWomen/. Ask professor for the dataset.  
 
-5. Podcasting Sub-reddit: https://www.reddit.com/r/podcasting/. Ask professor for the dataset.  
+5. Podcasting Subreddit: https://www.reddit.com/r/podcasting/. Ask professor for the dataset.  
 
 
 ## Extra Resources 
