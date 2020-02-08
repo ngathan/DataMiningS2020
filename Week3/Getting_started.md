@@ -1,5 +1,5 @@
 
-## Install R and R studio on your computer 
+# Install R and R studio on your computer 
 
-# For Mac User
+## For Mac User
 
