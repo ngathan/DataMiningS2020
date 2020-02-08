@@ -65,9 +65,4 @@
 
 ## More on CIFF from the Wiki
 
-1. [Reading Dataset and Simulators](https://github.com/lil-lab/ciff/wiki/Datasets-and-Simulators)
-2. [List of Sample Experiments](https://github.com/lil-lab/ciff/wiki/Sample-Experiments)
-3. [Debugging using CIFF](https://github.com/lil-lab/ciff/wiki/Debugging-Tools)
-4. [Frequently Asked Questions](https://github.com/lil-lab/ciff/wiki/FAQ)
-
 Have more questions, please raise an [issue](https://github.com/ngathan/DataMiningS2020/issues) or email at nthan@gradcenter.cuny.edu.
