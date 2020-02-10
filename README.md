@@ -63,6 +63,5 @@
  
 ## More information about the Data Mining class from the Wiki
 
-## More on CIFF from the Wiki
 
 Have more questions, please raise an [issue](https://github.com/ngathan/DataMiningS2020/issues) or email at nthan@gradcenter.cuny.edu.
