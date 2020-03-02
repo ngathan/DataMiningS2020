@@ -1,0 +1,103 @@
+id,pref,status,reason,origin,job,religion,children,gender,apptype,creason,corigin,cjob,creligion,cchildren,cgender
+138,1,Refugee,Reunite with family members already in U.S.,India,Computer Programmer,Muslim,2,Female,1,1,2,5,1,2,1
+483,0,Refugee,Seeking better economic opportunities,Nigeria,Computer Programmer,Catholic,1,Female,1,2,5,5,2,1,1
+71,0,Refugee,Reunite with family members already in U.S.,Iraq,Doctor,Agnostic,1,Female,1,1,8,6,3,1,1
+480,0,Refugee,Reunite with family members already in U.S.,Iraq,Childcare Worker,Agnostic,2,Male,1,1,8,0,3,2,0
+303,1,Refugee,Reunite with family members already in U.S.,Syria,Nurse,Muslim,0,Male,1,1,7,3,1,0,0
+301,1,Refugee,Reunite with family members already in U.S.,Ukraine,Computer Programmer,Catholic,2,Female,1,1,3,5,2,2,1
+301,0,Refugee,Fleeing violence,India,Janitor,Agnostic,2,Female,1,3,2,2,3,2,1
+12,0,Immigrant,Seeking better economic opportunities,Nigeria,Doctor,Catholic,0,Female,0,2,5,6,2,0,1
+5,1,Refugee,Seeking better economic opportunities,Iraq,Teacher,Muslim,2,Male,1,2,8,4,1,2,0
+42,0,Refugee,Reunite with family members already in U.S.,Ukraine,Teacher,Catholic,0,Female,1,1,3,4,2,0,1
+282,0,Refugee,Reunite with family members already in U.S.,Russia,Janitor,Catholic,2,Male,1,1,4,2,2,2,0
+508,1,Refugee,Fleeing persecution,Ukraine,Nurse,Catholic,1,Male,1,4,3,3,2,1,0
+414,1,Refugee,Reunite with family members already in U.S.,India,Nurse,Muslim,0,Female,1,1,2,3,1,0,1
+484,0,Refugee,Reunite with family members already in U.S.,Somalia,Doctor,Evangelical,2,Male,1,1,6,6,4,2,0
+393,0,Refugee,Reunite with family members already in U.S.,Nigeria,Nurse,Muslim,0,Female,1,1,5,3,1,0,1
+405,0,Refugee,Seeking better economic opportunities,Somalia,Computer Programmer,Protestant,2,Male,1,2,6,5,0,2,0
+101,0,Immigrant,Fleeing violence,El Salvador,Doctor,Catholic,0,Female,0,3,9,6,2,0,1
+447,0,Refugee,Fleeing persecution,Nigeria,Teacher,Evangelical,1,Male,1,4,5,4,4,1,0
+428,0,Immigrant,Fleeing persecution,Nigeria,Computer Programmer,Muslim,1,Female,0,4,5,5,1,1,1
+43,1,Refugee,Seeking better economic opportunities,Ukraine,Unemployed,Catholic,0,Female,1,2,3,1,2,0,1
+257,1,Immigrant,Fleeing violence,El Salvador,Childcare Worker,Agnostic,0,Male,0,3,9,0,3,0,0
+7,0,Immigrant,Reunite with family members already in U.S.,Somalia,Unemployed,Muslim,1,Male,0,1,6,1,1,1,0
+357,0,Immigrant,Reunite with family members already in U.S.,Russia,Childcare Worker,Muslim,0,Male,0,1,4,0,1,0,0
+424,1,Immigrant,Reunite with family members already in U.S.,Somalia,Unemployed,Muslim,1,Female,0,1,6,1,1,1,1
+107,0,Immigrant,Fleeing violence,Somalia,Janitor,Agnostic,1,Female,0,3,6,2,3,1,1
+369,0,Refugee,Seeking better economic opportunities,Somalia,Nurse,Protestant,0,Female,1,2,6,3,0,0,1
+335,0,Refugee,Fleeing persecution,Russia,Unemployed,Evangelical,0,Female,1,4,4,1,4,0,1
+161,0,Refugee,Seeking better economic opportunities,Mexico,Unemployed,Muslim,0,Male,1,2,10,1,1,0,0
+386,0,Immigrant,Reunite with family members already in U.S.,El Salvador,Computer Programmer,Evangelical,1,Male,0,1,9,5,4,1,0
+235,0,Refugee,Seeking better economic opportunities,Nigeria,Unemployed,Catholic,1,Female,1,2,5,1,2,1,1
+84,0,Refugee,Fleeing violence,India,Computer Programmer,Evangelical,2,Male,1,3,2,5,4,2,0
+172,1,Refugee,Reunite with family members already in U.S.,Russia,Computer Programmer,Protestant,1,Male,1,1,4,5,0,1,0
+479,0,Immigrant,Fleeing violence,Nigeria,Janitor,Muslim,0,Male,0,3,5,2,1,0,0
+295,1,Refugee,Reunite with family members already in U.S.,China,Nurse,Evangelical,0,Female,1,1,1,3,4,0,1
+438,1,Refugee,Fleeing violence,China,Unemployed,Catholic,1,Female,1,3,1,1,2,1,1
+239,0,Immigrant,Reunite with family members already in U.S.,Iraq,Teacher,Muslim,2,Female,0,1,8,4,1,2,1
+188,0,Immigrant,Fleeing persecution,Ukraine,Unemployed,Catholic,1,Female,0,4,3,1,2,1,1
+426,1,Immigrant,Reunite with family members already in U.S.,China,Computer Programmer,Agnostic,2,Female,0,1,1,5,3,2,1
+511,0,Immigrant,Fleeing violence,Mexico,Teacher,Muslim,0,Female,0,3,10,4,1,0,1
+354,1,Refugee,Fleeing violence,Mexico,Childcare Worker,Protestant,1,Female,1,3,10,0,0,1,1
+88,0,Refugee,Reunite with family members already in U.S.,Ukraine,Computer Programmer,Protestant,1,Female,1,1,3,5,0,1,1
+313,1,Immigrant,Fleeing persecution,El Salvador,Nurse,Muslim,1,Female,0,4,9,3,1,1,1
+541,0,Immigrant,Fleeing violence,Ukraine,Computer Programmer,Evangelical,2,Male,0,3,3,5,4,2,0
+40,1,Refugee,Seeking better economic opportunities,Nigeria,Unemployed,Agnostic,1,Female,1,2,5,1,3,1,1
+348,1,Immigrant,Fleeing persecution,Nigeria,Unemployed,Protestant,1,Female,0,4,5,1,0,1,1
+109,0,Immigrant,Seeking better economic opportunities,Nigeria,Nurse,Muslim,0,Male,0,2,5,3,1,0,0
+96,0,Refugee,Reunite with family members already in U.S.,Syria,Teacher,Catholic,2,Male,1,1,7,4,2,2,0
+176,0,Refugee,Reunite with family members already in U.S.,India,Janitor,Agnostic,0,Female,1,1,2,2,3,0,1
+27,0,Immigrant,Fleeing violence,Iraq,Doctor,Agnostic,1,Female,0,3,8,6,3,1,1
+295,0,Immigrant,Seeking better economic opportunities,Russia,Childcare Worker,Evangelical,2,Female,0,2,4,0,4,2,1
+472,1,Immigrant,Reunite with family members already in U.S.,Russia,Nurse,Catholic,1,Male,0,1,4,3,2,1,0
+53,0,Immigrant,Seeking better economic opportunities,China,Computer Programmer,Muslim,2,Male,0,2,1,5,1,2,0
+402,1,Refugee,Reunite with family members already in U.S.,Ukraine,Nurse,Protestant,0,Male,1,1,3,3,0,0,0
+377,1,Immigrant,Fleeing violence,Nigeria,Computer Programmer,Muslim,2,Male,0,3,5,5,1,2,0
+193,0,Refugee,Reunite with family members already in U.S.,Ukraine,Nurse,Muslim,2,Female,1,1,3,3,1,2,1
+225,1,Refugee,Reunite with family members already in U.S.,Ukraine,Computer Programmer,Agnostic,0,Female,1,1,3,5,3,0,1
+357,0,Refugee,Reunite with family members already in U.S.,Russia,Childcare Worker,Muslim,1,Male,1,1,4,0,1,1,0
+153,1,Refugee,Fleeing violence,India,Childcare Worker,Muslim,2,Female,1,3,2,0,1,2,1
+354,0,Immigrant,Seeking better economic opportunities,India,Nurse,Protestant,0,Male,0,2,2,3,0,0,0
+404,1,Refugee,Fleeing persecution,Ukraine,Teacher,Agnostic,0,Male,1,4,3,4,3,0,0
+374,0,Immigrant,Fleeing violence,Russia,Unemployed,Catholic,1,Male,0,3,4,1,2,1,0
+327,1,Immigrant,Fleeing violence,Nigeria,Computer Programmer,Protestant,0,Male,0,3,5,5,0,0,0
+44,1,Immigrant,Fleeing violence,Russia,Childcare Worker,Evangelical,2,Male,0,3,4,0,4,2,0
+55,0,Immigrant,Seeking better economic opportunities,China,Computer Programmer,Protestant,1,Male,0,2,1,5,0,1,0
+207,1,Immigrant,Fleeing violence,Iraq,Janitor,Agnostic,0,Male,0,3,8,2,3,0,0
+264,0,Immigrant,Fleeing persecution,El Salvador,Childcare Worker,Evangelical,1,Male,0,4,9,0,4,1,0
+382,0,Refugee,Fleeing persecution,China,Unemployed,Protestant,2,Male,1,4,1,1,0,2,0
+158,1,Immigrant,Fleeing violence,El Salvador,Janitor,Muslim,0,Male,0,3,9,2,1,0,0
+276,1,Refugee,Fleeing violence,Syria,Teacher,Evangelical,1,Female,1,3,7,4,4,1,1
+49,1,Immigrant,Fleeing persecution,Nigeria,Doctor,Catholic,0,Male,0,4,5,6,2,0,0
+311,0,Refugee,Reunite with family members already in U.S.,India,Unemployed,Protestant,2,Female,1,1,2,1,0,2,1
+406,1,Immigrant,Seeking better economic opportunities,Iraq,Teacher,Agnostic,2,Female,0,2,8,4,3,2,1
+226,0,Refugee,Reunite with family members already in U.S.,Nigeria,Childcare Worker,Catholic,0,Male,1,1,5,0,2,0,0
+404,1,Refugee,Fleeing persecution,Ukraine,Teacher,Agnostic,0,Male,1,4,3,4,3,0,0
+484,1,Refugee,Reunite with family members already in U.S.,India,Childcare Worker,Protestant,0,Female,1,1,2,0,0,0,1
+307,1,Immigrant,Fleeing violence,Mexico,Janitor,Catholic,0,Female,0,3,10,2,2,0,1
+126,1,Refugee,Reunite with family members already in U.S.,China,Childcare Worker,Agnostic,1,Male,1,1,1,0,3,1,0
+253,1,Immigrant,Seeking better economic opportunities,Russia,Childcare Worker,Muslim,0,Female,0,2,4,0,1,0,1
+440,0,Refugee,Fleeing violence,Mexico,Unemployed,Evangelical,2,Female,1,3,10,1,4,2,1
+262,0,Immigrant,Seeking better economic opportunities,Syria,Janitor,Catholic,0,Female,0,2,7,2,2,0,1
+84,1,Refugee,Fleeing persecution,Mexico,Computer Programmer,Agnostic,1,Female,1,4,10,5,3,1,1
+529,0,Immigrant,Seeking better economic opportunities,Syria,Teacher,Catholic,1,Female,0,2,7,4,2,1,1
+104,0,Refugee,Fleeing violence,Russia,Doctor,Evangelical,2,Female,1,3,4,6,4,2,1
+135,1,Immigrant,Fleeing violence,Iraq,Janitor,Catholic,0,Male,0,3,8,2,2,0,0
+189,1,Refugee,Reunite with family members already in U.S.,Ukraine,Unemployed,Evangelical,2,Female,1,1,3,1,4,2,1
+45,1,Refugee,Fleeing violence,India,Janitor,Protestant,1,Male,1,3,2,2,0,1,0
+500,0,Refugee,Seeking better economic opportunities,Nigeria,Unemployed,Evangelical,1,Female,1,2,5,1,4,1,1
+351,1,Immigrant,Reunite with family members already in U.S.,Iraq,Doctor,Catholic,2,Female,0,1,8,6,2,2,1
+344,0,Immigrant,Reunite with family members already in U.S.,Syria,Nurse,Agnostic,1,Male,0,1,7,3,3,1,0
+307,0,Refugee,Fleeing violence,Nigeria,Childcare Worker,Evangelical,1,Female,1,3,5,0,4,1,1
+278,0,Immigrant,Reunite with family members already in U.S.,India,Computer Programmer,Evangelical,1,Male,0,1,2,5,4,1,0
+43,1,Refugee,Seeking better economic opportunities,Ukraine,Unemployed,Catholic,0,Female,1,2,3,1,2,0,1
+479,0,Refugee,Seeking better economic opportunities,Iraq,Unemployed,Muslim,2,Male,1,2,8,1,1,2,0
+524,0,Refugee,Fleeing persecution,India,Childcare Worker,Agnostic,0,Female,1,4,2,0,3,0,1
+247,0,Immigrant,Reunite with family members already in U.S.,China,Doctor,Muslim,0,Female,0,1,1,6,1,0,1
+452,0,Immigrant,Reunite with family members already in U.S.,India,Nurse,Catholic,1,Female,0,1,2,3,2,1,1
+530,1,Refugee,Fleeing violence,India,Doctor,Catholic,2,Male,1,3,2,6,2,2,0
+228,0,Immigrant,Seeking better economic opportunities,China,Unemployed,Muslim,0,Female,0,2,1,1,1,0,1
+416,0,Refugee,Reunite with family members already in U.S.,Syria,Teacher,Agnostic,1,Male,1,1,7,4,3,1,0
+274,0,Immigrant,Reunite with family members already in U.S.,Iraq,Computer Programmer,Protestant,0,Male,0,1,8,5,0,0,0
+18,1,Refugee,Reunite with family members already in U.S.,Nigeria,Doctor,Agnostic,1,Female,1,1,5,6,3,1,1
+173,0,Refugee,Fleeing persecution,Iraq,Unemployed,Agnostic,1,Female,1,4,8,1,3,1,1
