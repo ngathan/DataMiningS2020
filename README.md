@@ -47,6 +47,8 @@
 
 7. Twitter hashtags: Scraping Twitter using R packages. This topic will be covered in the Text Mining Part of the class. 
 
+8. NYC Teachers' #sickout during Covid19 pandemic. 
+
 
 ## Extra Resources 
 
