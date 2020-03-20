@@ -49,6 +49,8 @@
 
 8. NYC Teachers' #sickout during Covid19 pandemic. 
 
+9. Existing Tweet Datasets (more than 800 million of tweets). https://tweetsets.library.gwu.edu/
+
 
 ## Extra Resources 
 
