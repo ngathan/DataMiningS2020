@@ -3,10 +3,19 @@
 
 
 install.packages("e1071")
+install.packages("party")
+install.packages("caret")
+install.packages("foreach")
+install.packages("MASS")
+install.packages("ggplot2")
+install.packages("caret")
+install.packages("titanic")
+install.packages("rpart")
+install.packages("party")
 library(foreach)
 library(MASS)
 library(ggplot2)
-library(caret)
+library(caret) # This is for confusion matrix calculation 
 library(titanic)
 library(rpart)
 library(party)
@@ -31,7 +40,7 @@ dat <- na.omit(dat)
 
 # Split data
 
-set.seed(1230596) # For reproducibility purpose 
+set.seed(57275068) # For reproducibility purpose 
 
 trainIndex <- createDataPartition(dat$Survived, p=0.75, list = FALSE, times = 1)
 
@@ -80,4 +89,4 @@ test.cpred <- predict(cfit, test, type="response")
 #
 confusionMatrix(train$Survived, train.cpred)
 confusionMatrix(test$Survived, test.cpred)
-#
+
