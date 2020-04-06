@@ -1,8 +1,15 @@
 # Random Forest Classification
-
 # Importing the dataset
 dataset = read.csv('Social_Network_Ads.csv')
 dataset = dataset[3:5]
+head(dataset) 
+nrow(dataset)
+
+na_count <-sapply(dataset, function(y) sum(length(which(is.na(y)))))
+na_count <- data.frame(na_count)
+na_count
+# No missing variables! 
+set.seed(1234)
 
 # Encoding the target feature as factor
 dataset$Purchased = factor(dataset$Purchased, levels = c(0, 1))
@@ -10,7 +17,6 @@ dataset$Purchased = factor(dataset$Purchased, levels = c(0, 1))
 # Splitting the dataset into the Training set and Test set
 # install.packages('caTools')
 library(caTools)
-set.seed(123)
 split = sample.split(dataset$Purchased, SplitRatio = 0.75)
 training_set = subset(dataset, split == TRUE)
 test_set = subset(dataset, split == FALSE)
@@ -23,6 +29,7 @@ test_set[-3] = scale(test_set[-3])
 # install.packages('randomForest')
 library(randomForest)
 set.seed(123)
+
 classifier = randomForest(x = training_set[-3],
                           y = training_set$Purchased,
                           ntree = 500)
@@ -34,6 +41,9 @@ y_pred = predict(classifier, newdata = test_set[-3])
 cm = table(test_set[, 3], y_pred)
 
 # Visualising the Training set results
+
+install.packages("ElemStatLearn")
+
 library(ElemStatLearn)
 set = training_set
 X1 = seq(min(set[, 1]) - 1, max(set[, 1]) + 1, by = 0.01)
@@ -66,3 +76,4 @@ points(set, pch = 21, bg = ifelse(set[, 3] == 1, 'green4', 'red3'))
 
 # Choosing the number of trees
 plot(classifier)
+
