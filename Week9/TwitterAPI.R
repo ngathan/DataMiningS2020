@@ -38,9 +38,11 @@ create_token(app=app_name,
 
 #ChineseVirus
 
-ChineseVirus<-search_tweets("#ChineseVirus", n=10000000, include_rts = FALSE, 
+ChineseVirus<- search_tweets("#ChineseVirus", n=10000000, include_rts = FALSE, 
                                   retryonratelimit = TRUE)
+
 save(ChineseVirus, file = "ChineseVirus.RData")
+write.csv(ChineseVirus, "ChineseVirus.csv")
 
 
 # Plot Frequency 
