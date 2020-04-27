@@ -77,11 +77,20 @@ plot.STM(cuomo_K9 ,type="summary", xlim=c(0, .6), n=10)
 
 labelTopics(cuomo_K9, topics = NULL, n = 7, frexweight = 0.5)
 
+
+# Visualize the quotes 
+
+install.packages("wordcloud")
+library(wordcloud)
 plot (cuomo_K9,  cex = 2.0)
 names(meta)
 thoughts5 <- findThoughts(cuomo_K9, texts=meta$text, topics=5, n=2)
 plotQuote(thoughts5$docs[[1]], main = "Topic 5")
+cloud(cuomo_K9, topic = 5, scale = c(2, .25))
+
+
+
 thoughts9 <- findThoughts(cuomo_K9, texts=meta$text, topics=9, n=2)
 plotQuote(thoughts9$docs[[1]], main = "Topic 9")
-
+cloud(cuomo_K9, topic = 9, scale = c(2, .25))
 
