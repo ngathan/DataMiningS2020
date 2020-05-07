@@ -1,6 +1,8 @@
 # 03.26.2020  
 # Scrape #Hatecrime vis-a-vis #Covid19
 # #Chinesevirus looks like the most important hashtag. 
+
+
 install.packages("stringr")
 install.packages("twitteR")
 install.packages("purrr")
